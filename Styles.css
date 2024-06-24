@@ -1,0 +1,73 @@
+body {
+    background-color: #000000;
+    color: #00eaff;
+    font-family: 'Courier New', monospace;
+    line-height: 1.6;
+    text-shadow: 0 0 5px #0f0;
+}
+
+header, nav, section, footer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #00eaff;
+    box-shadow: 0 0 10px #0f0;
+    text-shadow: 0 0 5px #0f0;
+}
+
+.header {
+    text-align: center;
+    color: #00eaff;
+    text-shadow: 0 0 5px #00ffff            
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    text-shadow: 0 0 5px #0f0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #00eaff;
+    text-shadow: 0 0 5px #0f0;
+}
+
+.terminal {
+    background-color: #black;
+    border: 1px solid #00eaff;
+    padding: 20px;
+    box-shadow: 0 0 10px #0f0;
+}
+
+.code-snippet {
+    background-color: #black;
+    border: 1px solid #00eaff;
+    padding: 20px;
+    box-shadow: 0 0 10px #0f0;
+}
+
+button {
+  background-color: black;
+  color: #00ffff;
+  padding: 10px 20px;
+  border: 1px solid #00eaff;
+  margin: 5px;
+  border-radius: 5px;
+  width: 200px;
+  text-shadow: 0 0 5px #0f0;
+  box-shadow: 0 0 10px #0f0;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    color: #00eaff;
+    text-shadow: 0 0 5px #0f0;
+    position: bottom;
+}
